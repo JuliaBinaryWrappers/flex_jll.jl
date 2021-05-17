@@ -1,0 +1,127 @@
+[[flex]]
+arch = "aarch64"
+git-tree-sha1 = "e9f2d7b5b9657d432bda3935a6055713c6f17305"
+os = "macos"
+
+    [[flex.download]]
+    sha256 = "b8de4a8d2f4a8e0ade765401689c4b8767ba1417ab48ca574bb3e3a7a8541f7c"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.aarch64-apple-darwin.tar.gz"
+[[flex]]
+arch = "aarch64"
+git-tree-sha1 = "548c040f915135f22e18cc8b7fbb275b9b7f619a"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "4034bdee64d96e9d4ad62782d8617d428fb8ed1cf1cdc0f500f773a463f20c23"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.aarch64-linux-gnu.tar.gz"
+[[flex]]
+arch = "aarch64"
+git-tree-sha1 = "8c83ffbfb29cd8c45da6d61770926be88c5ae33d"
+libc = "musl"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "2c502dfb1dc3373044de9b3bbaf2ca3ecb4b39bfa472bf1a81e9d40c4f57f78f"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.aarch64-linux-musl.tar.gz"
+[[flex]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "366c5bc32709d0b339098059358945556f1e5e0d"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "13b708dc96e056dd29ac6bd7e5e014cf5c6ed46494b4ab9759c6f7854c57b00d"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.armv6l-linux-gnueabihf.tar.gz"
+[[flex]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c471036f2a1717d17b8d7edb5d8872d7c9858049"
+libc = "musl"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "ff684fa7eb82abbd8614ceb5db0795791f7db47d7d2557693b15f85964dc4ae0"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.armv6l-linux-musleabihf.tar.gz"
+[[flex]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4be496af05b5c595493013ef7a7e8d6baf9f4670"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "8c5e252c13ea89a6924e9520c3861c9a510c27bda8552cd53c2106bdf5b0d375"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.armv7l-linux-gnueabihf.tar.gz"
+[[flex]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2aca76eca35d1a7c27634447b7d857c048d7a097"
+libc = "musl"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "6f031bbcc07fcf9e8306617c26e614bc0cfcee9a112ea23b7eb2572c2225870d"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.armv7l-linux-musleabihf.tar.gz"
+[[flex]]
+arch = "i686"
+git-tree-sha1 = "da7c56d43adb1c4823fd5f94e571ba7246540f9d"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "e967ab31a7ff0e2e6e0f5a9ccbbf138d9806ff535c47ef4801ccd8f04914b8e3"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.i686-linux-gnu.tar.gz"
+[[flex]]
+arch = "i686"
+git-tree-sha1 = "4a753b81a0b05d72d9dec19c2e6e0b5aab1fd8dc"
+libc = "musl"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "3d6e847e6b90ff2c0a523d54c272c0a53d4c8c9ba950e159d3ba04c79f83c6cb"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.i686-linux-musl.tar.gz"
+[[flex]]
+arch = "powerpc64le"
+git-tree-sha1 = "e4b33663e1fe7434b8d0295edffbb2dd70e4a71b"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "e20db7b101ad8f12f1faa940ef1728c392a6248f230f2009c2729b568ee70d77"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.powerpc64le-linux-gnu.tar.gz"
+[[flex]]
+arch = "x86_64"
+git-tree-sha1 = "98df9d7a2296efc3f98a07cf9716e8c9ad0820aa"
+os = "macos"
+
+    [[flex.download]]
+    sha256 = "c33adf246be34720cb8f53889f2ffc8dcf9d4876f321349af0e2295d5b64d697"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.x86_64-apple-darwin.tar.gz"
+[[flex]]
+arch = "x86_64"
+git-tree-sha1 = "f96297a1f53beedaac25d8bd6c789ec7f3c2913f"
+libc = "glibc"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "5416e001fbeb091500fbec5ba678fd024730a557928315255cdd7e078ee9e524"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.x86_64-linux-gnu.tar.gz"
+[[flex]]
+arch = "x86_64"
+git-tree-sha1 = "b789d6d6672a114f9190369fb66adbcbbe25ca98"
+libc = "musl"
+os = "linux"
+
+    [[flex.download]]
+    sha256 = "b91e20a19610139b1c268085223bda5edd87a3450ce14a2e3916e6bfebaf5240"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.x86_64-linux-musl.tar.gz"
+[[flex]]
+arch = "x86_64"
+git-tree-sha1 = "dfec3233769624384a489fbe294807b9c722c6ac"
+os = "freebsd"
+
+    [[flex.download]]
+    sha256 = "4a279489e07d83393bc66d8968a3d6c8e8dabf3ab70c2f385330dae207fb7847"
+    url = "https://github.com/JuliaBinaryWrappers/flex_jll.jl/releases/download/flex-v2.6.4+0/flex.v2.6.4.x86_64-unknown-freebsd.tar.gz"
